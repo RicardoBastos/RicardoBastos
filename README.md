@@ -1,8 +1,6 @@
-SEJA BEM VINDO!
+<b>SEJA BEM VINDO!</b>
 
-Me chamo Ricardo
-
-Sou programador .Net - JS
+Programador .NET - Java Script
 
 
 <a href="https://www.linkedin.com/in/ricardo3bastos/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo3bastos/"/></a>
